@@ -207,6 +207,7 @@ header .textos h3 {
      transition: all 1s ease;
 }
 
+/* ---- ---- UBICACION ---- ---- */
 .main .ubicacion {
      background: #fff;
      padding: 60px 0;
@@ -249,6 +250,7 @@ header .textos h3 {
      text-align: center;
 }
 
+/* ---- ---- MAPA ---- ---- */
 .main .mapa {
      width: 100%;
      overflow: hidden;
