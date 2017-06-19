@@ -40,20 +40,20 @@ $(document).ready(function(){
           e.preventDefault();
           $('html, body').animate({
                scrollTop: menu
-          }, 600);
+          }, 1000);
      });
 
      $('#btn-galeria').on('click', function(e){
           e.preventDefault();
           $('html, body').animate({
                scrollTop: galeria
-          }, 600);
+          }, 1400);
      });
 
      $('#btn-ubicacion').on('click', function(e){
           e.preventDefault();
           $('html, body').animate({
                scrollTop: ubicacion
-          }, 600);
+          }, 1800);
      });
 });
