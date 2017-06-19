@@ -1,3 +1,3 @@
-# Café Smart NT
+# Café GeniusInTechnology
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit
